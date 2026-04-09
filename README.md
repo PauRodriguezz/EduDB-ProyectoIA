@@ -3,6 +3,9 @@
 Este proyecto fue desarrollado como trabajo integrador de la materia **Inteligencia Artificial (5° año)** de la carrera **Ingeniería en Sistemas de Información**.  
 Combina un **grafo semántico en Neo4j**, reglas de **Formas Normales**, un **LLM** y una interfaz web para crear un asistente capaz de razonar sobre normalización de bases de datos.
 
+La documentación técnica de este proyecto se encuentra disponible en el siguiente repositorio:
+[Documentación técnica del proyecto](https://github.com/PauRodriguezz/EduDB_Documentacion_Tecnica)
+
 ---
 
 ## 🧠 ¿Qué hace este asistente?
